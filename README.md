@@ -1,10 +1,10 @@
 ## Rails 4 API base application sceleton
 
-[<img src="https://github.com/RuslanHamidullin/rails_4_base/blob/master/public/rails.png" style='height: 100px;'>]
-[<img src="https://github.com/RuslanHamidullin/rails_4_base/blob/master/public/twitter-bootstrap.jpg" style='height: 100px;'>]
-[<img src="https://github.com/RuslanHamidullin/rails_4_base/blob/master/public/postgresql.jpeg" style='height: 100px;'>]
-[<img src="https://github.com/RuslanHamidullin/rails_4_base/blob/master/public/redis.png" style='height: 100px;'>]
-[<img src="http://haml.info/images/haml.png" style='height: 100px;'>]
+<img src="http://rubyonrails.org/images/rails.png" style='height: 60px;'>
+<img src="http://getbootstrap.com/2.3.2/assets/img/bs-docs-twitter-github.png" style='height: 60px;'>
+<img src="http://www.postgresql.org/media/img/layout/hdr_left.png" style='height: 60px;'>
+<img src="http://redis.io/images/redis.png" style='height: 60px;'>
+<img src="http://haml.info/images/haml.png" style='height: 60px;'>
 
 Rails 4, Ruby 2.0.0
 

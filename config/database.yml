@@ -14,7 +14,7 @@ development:
   database: rest_api_example_development
   pool: 5
   username: root
-  password:
+  password: root
   socket: /var/run/mysqld/mysqld.sock
 
 # Warning: The database defined as "test" will be erased and
@@ -26,7 +26,7 @@ test: &test
   database: rest_api_example_test
   pool: 5
   username: root
-  password:
+  password: root
   socket: /var/run/mysqld/mysqld.sock
 
 production:
@@ -35,7 +35,7 @@ production:
   database: rest_api_example_production
   pool: 5
   username: root
-  password:
+  password: root
   socket: /var/run/mysqld/mysqld.sock
 
 cucumber:

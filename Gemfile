@@ -4,6 +4,7 @@ ruby "2.0.0"
 gem 'rails', '4.0.0'
 gem 'devise'
 
+# UI
 gem 'sass-rails', '~> 4.0.0'
 gem 'uglifier', '>= 1.3.0'
 gem 'coffee-rails', '~> 4.0.0'
@@ -17,6 +18,20 @@ gem "less-rails"
 gem 'carrierwave'
 gem 'rmagick', require: false
 
+# Tools
+gem 'kaminari'
+
+# Cache and background jobs
+gem 'redis-rails'
+gem "resque"
+gem 'resque-scheduler'
+gem 'rufus-scheduler', '2.0.24'
+
+# Server
+gem 'heroku'
+gem 'unicorn'
+gem 'foreman'
+
 # API
 gem "active_model_serializers"
 gem 'jbuilder', '~> 1.2'
@@ -27,11 +42,6 @@ gem "airbrake"
 
 # db population
 gem 'faker'
-
-gem 'kaminari'
-gem 'heroku'
-gem 'unicorn'
-gem 'foreman'
 
 group :development do
   gem 'mysql2'

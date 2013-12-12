@@ -64,7 +64,10 @@
   * `bundle`
   * `rake db:create && rake db:migrate`
   * `rake db:dummy` (add sample data if needed, optional)
-    
+
+### Contributors
+ 
+  * <a href="https://github.com/RuslanHamidullin">Ruslan Khamidullin</a>
 
 
 

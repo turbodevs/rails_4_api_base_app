@@ -1,12 +1,9 @@
 ## Rails 4 API base application sceleton
 
-<img src="http://rubyonrails.org/images/rails.png" style='height: 60px;'>
-<div style="float:left; height: 60px;" markdown="1">
-  <img src="http://getbootstrap.com/2.3.2/assets/img/bs-docs-twitter-github.png" style='height: 60px;'>
-</div>
-<img src="http://www.postgresql.org/media/img/layout/hdr_left.png" style='height: 60px;'>
-<img src="http://redis.io/images/redis.png" style='height: 60px;'>
-<img src="http://haml.info/images/haml.png" style='height: 60px;'>
+<img src="http://rubyonrails.org/images/rails.png">
+<img src="http://www.dev.gopivotal.com/sites/all/themes/gopivotal/assets/images/OSS_Logo_Redis_160.png">
+<img src="http://haml.info/images/haml.png">
+<img src="http://mamishev.ru/wordpress/wp-content/uploads/2013/09/coffeescript-logo-150x150.jpg">
 
 Rails 4, Ruby 2.0.0
 

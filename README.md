@@ -4,7 +4,7 @@
 [<img src="https://github.com/RuslanHamidullin/rails_4_base/blob/master/public/twitter-bootstrap.jpg" style='height: 100px;'>]
 [<img src="https://github.com/RuslanHamidullin/rails_4_base/blob/master/public/postgresql.jpeg" style='height: 100px;'>]
 [<img src="https://github.com/RuslanHamidullin/rails_4_base/blob/master/public/redis.png" style='height: 100px;'>]
-[<img src="https://github.com/RuslanHamidullin/rails_4_base/blob/master/public/haml.png" style='height: 100px;'>]
+[<img src="http://haml.info/images/haml.png" style='height: 100px;'>]
 
 Rails 4, Ruby 2.0.0
 

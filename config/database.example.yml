@@ -1,0 +1,22 @@
+development:
+  adapter: postgresql
+  encoding: unicode
+  host: localhost
+  database: glowfori
+  user: glowfori
+  password: glowforipass
+  pool: 5
+  timeout: 5000
+
+test: &test
+  adapter: postgresql
+  encoding: unicode
+  host: localhost
+  database: glowfori_test
+  user: glowfori
+  password: glowforipass
+  pool: 5
+  timeout: 5000
+
+cucumber:
+  <<: *test

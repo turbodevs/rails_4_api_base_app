@@ -59,7 +59,8 @@
 
 ### Quick start
 
-  * `git clone git@github.com:RuslanHamidullin/rails_4_rest_api_base.git --origin rails_4_rest_api_base [YOUR-PROJECT-NAME]`
+  * `git clone git@github.com:RuslanHamidullin/rails_4_rest_api_base.git --origin rails_4_rest_api_base 
+    [YOUR-PROJECT-NAME]`
   * `bundle`
   * `rake db:create && rake db:migrate`
   * `rake db:dummy` (add sample data if needed, optional)

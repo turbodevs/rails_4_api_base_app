@@ -59,22 +59,11 @@
 
 ### Quick start
 
-1. Clone
-
-    `git clone git@github.com:RuslanHamidullin/rails_4_rest_api_base.git --origin rails_4_rest_api_base [YOUR-PROJECT-NAME]`
-
-2. Install gems
-   
-    `bundle`
-
-3. Database setup
-
-    `rake db:create`
-    `rake db:migrate`
-
-4. Add sample data if needed
-
-    `rake db:dummy`
+  * `git clone git@github.com:RuslanHamidullin/rails_4_rest_api_base.git --origin rails_4_rest_api_base [YOUR-PROJECT-NAME]`
+  * `bundle`
+  * `rake db:create && rake db:migrate`
+  * `rake db:dummy` (add sample data if needed, optional)
+    
 
 
 

@@ -2,7 +2,7 @@
 
 <img src="http://rubyonrails.org/images/rails.png" style='height: 60px;'>
 <div style="float:left; height: 60px;" markdown="1">
-  ![book](http://getbootstrap.com/2.3.2/assets/img/bs-docs-twitter-github.png)
+  <img src="http://getbootstrap.com/2.3.2/assets/img/bs-docs-twitter-github.png" style='height: 60px;'>
 </div>
 <img src="http://www.postgresql.org/media/img/layout/hdr_left.png" style='height: 60px;'>
 <img src="http://redis.io/images/redis.png" style='height: 60px;'>
